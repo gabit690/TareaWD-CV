@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One');
+
+body {
+    background-color: #fff6be;
+}
+
+h1 {
+    font-family: 'Germania One', cursive;
+    /* font-family: 'Share Tech Mono', monospace;*/
+}
